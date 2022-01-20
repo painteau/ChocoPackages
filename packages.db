@@ -1,3 +1,2 @@
-id,name,command,description
 1,Notion,notion,Installs Notion
 2,Java Runtime Environment 8, jre8 -PackageParameters "/exclude:32",Installs JRE x64
