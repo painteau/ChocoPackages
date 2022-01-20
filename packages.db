@@ -8,6 +8,7 @@
 9,Teamspeak,teamspeak,
 10,OBS Studio,obs-studio,
 11,OBS NDI plugin,obs-ndi,
+12,Microsoft Edge,microsoft-edge,
 13,Battle.net,battle.net,
 14,Epic Games,epicgameslauncher,
 15,VLC 4,vlc-nightly,
@@ -27,3 +28,4 @@
 29,Video Ad-Block for Twitch,video-ad-block-for-twitch,
 30,SponsorBlock for YouTube for Chrome,sponsorblock-for-youtube,
 31,Twitch Channel Points Auto Clicker,twitch-channel-points-aut,
+32,Telegram,telegram,
