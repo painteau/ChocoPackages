@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>twitch-channel-points-aut</id>
+    <version>0.0.11</version>
+    <title>Twitch Channel Points Auto Clicker</title>
+    <authors>https://github.com/ravenbtw</authors>
+    <owners>painteau</owners>
+    <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/twitch-channel-points-aut</packageSourceUrl>
+    <projectUrl>https://chrome.google.com/webstore/detail/twitch-channel-points-aut/jdpblpklojajpopllbckephjndibljbc</projectUrl>
+    <iconUrl>https://lh3.googleusercontent.com/QDDvKlPT4j-QupqIxIKfgHDf_PpA9c5ByfDWTAmgDVIRgf0585Mtu3fkBLXuorfevI9HrbeEuP_Xsn50AGuwNa9rMA=w128-h128-e365-rj-sc0x00ffffff</iconUrl>
+    <licenseUrl>https://chrome.google.com/webstore/detail/twitch-channel-points-aut/jdpblpklojajpopllbckephjndibljbc</licenseUrl>	
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+Enjoy streams in peace!
+Tired of clicking the "bonus" channel points button every time you're able to get points? This extension does it all for you, so you can focus on watching your favorite Twitch streamer in peace.
+	</description>
+    <summary>Clicks the bonus channel points button every time youcan get twitch get points</summary>
+    <tags>twitch auto clicker bonus chest chrome extension</tags>
+    <dependencies>
+      <dependency id="googlechrome" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
