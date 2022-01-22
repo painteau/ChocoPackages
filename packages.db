@@ -1,6 +1,7 @@
 1,Notion,notion,Installs Notion
 2,Java Runtime Environment 8, jre8 -PackageParameters "/exclude:32",Installs JRE x64
 3,Adobe Acrobat Reader,adobereader,
+4,FFMPEG 5,ffmpeg-full,
 5,Python,python,
 6,Bitwarden,bitwarden,
 7,Bitwarden for Chrome,bitwarden-chrome,
