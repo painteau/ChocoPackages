@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>twitch-channel-points-aut-chrome</id>
+    <version>0.0.11</version>
+    <title>Twitch Channel Points Auto Clicker for Chrome</title>
+    <authors>https://github.com/ravenbtw</authors>
+    <owners>painteau</owners>
+    <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/twitch-channel-points-aut</packageSourceUrl>
+    <projectUrl>https://chrome.google.com/webstore/detail/twitch-channel-points-aut/jdpblpklojajpopllbckephjndibljbc</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/1f71c6a3d15cdea6c5b78e361bd1c046bf8483dc/twitch-channel-points-aut/twitch-channel-points-aut.png?raw=true</iconUrl>
+    <licenseUrl>https://github.com/Ravenbtw/twitch-channel-points-auto-clicker</licenseUrl>	
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Extension for Chrome : Clicks the bonus channel points button every time you can get twitch get points
+	</description>
+    <summary>Clicks the bonus channel points button every time you can get twitch get points</summary>
+    <tags>twitch auto clicker bonus chest chrome extension</tags>
+    <dependencies>
+      <dependency id="googlechrome" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
