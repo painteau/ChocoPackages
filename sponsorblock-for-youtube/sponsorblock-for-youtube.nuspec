@@ -2,18 +2,18 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>sponsorblock-for-youtube</id>
+    <id>sponsorblock-for-youtube-chrome</id>
     <version>4.0.4</version>
     <title>SponsorBlock for YouTube for Chrome</title>
     <authors>https://sponsor.ajay.app/</authors>
     <owners>painteau</owners>
     <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/sponsorblock-for-youtube</packageSourceUrl>
-    <projectUrl>https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone</projectUrl>
-    <iconUrl>https://sponsor.ajay.app/LogoSponsorBlock256px.png</iconUrl>
-    <licenseUrl>https://gist.github.com/ajayyy/9e8100f069348e0bc062641f34d6af12</licenseUrl>	
+    <projectUrl>https://sponsor.ajay.app/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/ea1002f2d52b21059674b9f9d20cdadba0e82f9d/sponsorblock-for-youtube/sponsorblock-for-youtube.png</iconUrl>
+    <licenseUrl>https://github.com/ajayyy/SponsorBlock/blob/master/LICENSE</licenseUrl>	
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-SponsorBlock is an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos. Users submit when a sponsor happens from the extension, and the extension automatically skips sponsors it knows about using a privacy preserving query system. It also supports skipping other categories, such as intros, outros and reminders to subscribe, and skipping to the point with highlight.
+SponsorBlock is an open-source - https://github.com/ajayyy/SponsorBlock - crowdsourced browser extension for Chrome and open API for skipping sponsor segments in YouTube videos. Users submit when a sponsor happens from the extension, and the extension automatically skips sponsors it knows about using a privacy preserving query system. It also supports skipping other categories, such as intros, outros and reminders to subscribe, and skipping to the point with highlight.
 
 Check status.sponsor.ajay.app for server status.
 	</description>
