@@ -9,7 +9,7 @@
     <owners>painteau</owners>
     <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/sponsorblock-for-youtube-chrome</packageSourceUrl>
     <projectUrl>https://sponsor.ajay.app/</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/6fcbe93c329c3b136f0be24c83fee20f8ff3a98e/sponsorblock-for-youtube-chrome/sponsorblock-for-youtube.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/main/sponsorblock-for-youtube-chrome/sponsorblock-for-youtube.png</iconUrl>
     <licenseUrl>https://github.com/ajayyy/SponsorBlock/blob/master/LICENSE</licenseUrl>	
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
