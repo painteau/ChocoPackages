@@ -7,9 +7,9 @@
     <title>Twitch Channel Points Auto Clicker for Chrome</title>
     <authors>https://github.com/ravenbtw</authors>
     <owners>painteau</owners>
-    <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/twitch-channel-points-aut</packageSourceUrl>
+    <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/twitch-channel-points-aut-chrome</packageSourceUrl>
     <projectUrl>https://chrome.google.com/webstore/detail/twitch-channel-points-aut/jdpblpklojajpopllbckephjndibljbc</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/1f71c6a3d15cdea6c5b78e361bd1c046bf8483dc/twitch-channel-points-aut/twitch-channel-points-aut.png?raw=true</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/6fcbe93c329c3b136f0be24c83fee20f8ff3a98e/twitch-channel-points-aut-chrome/twitch-channel-points-aut.png</iconUrl>
     <licenseUrl>https://github.com/Ravenbtw/twitch-channel-points-auto-clicker</licenseUrl>	
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>

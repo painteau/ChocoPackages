@@ -7,9 +7,9 @@
     <title>Video Ad-Block, for Twitch - Chrome Extension</title>
     <authors>https://github.com/saucettv</authors>
     <owners>painteau</owners>
-    <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/video-ad-block-for-twitch</packageSourceUrl>
+    <packageSourceUrl>https://github.com/painteau/ChocoPackages/tree/main/video-ad-block-for-twitch-chrome</packageSourceUrl>
     <projectUrl>https://chrome.google.com/webstore/detail/video-ad-block-for-twitch/kgeglempfkhalebjlogemlmeakondflc</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/6cf866299d0b15167b04faaae70bfb47225ea46f/video-ad-block-for-twitch/video-ad-block-for-twitch.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/painteau/ChocoPackages/6fcbe93c329c3b136f0be24c83fee20f8ff3a98e/video-ad-block-for-twitch-chrome/video-ad-block-for-twitch.png</iconUrl>
     <licenseUrl>https://github.com/saucettv/VideoAdBlockForTwitch</licenseUrl>	
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
