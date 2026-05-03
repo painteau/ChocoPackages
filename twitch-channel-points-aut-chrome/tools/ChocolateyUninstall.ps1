@@ -1,9 +1,9 @@
-$bits = Get-ProcessorBits
-$packageName = 'twitch-channel-points-aut'
 $extensionID = 'jdpblpklojajpopllbckephjndibljbc'
 
-if ($bits -eq 64) {
-    Remove-Item "HKLM:\SOFTWARE\Wow6432node\Google\Chrome\Extensions\$extensionID" -Force -ErrorAction SilentlyContinue | out-null
-   }else{
-    Remove-Item "HKLM:\SOFTWARE\Google\Chrome\Extensions\$extensionID" -Force -ErrorAction SilentlyContinue | out-null
+$regPath = if ([Environment]::Is64BitOperatingSystem) {
+    "HKLM:\SOFTWARE\Wow6432Node\Google\Chrome\Extensions\$extensionID"
+} else {
+    "HKLM:\SOFTWARE\Google\Chrome\Extensions\$extensionID"
 }
+
+Remove-Item $regPath -Force -ErrorAction SilentlyContinue | Out-Null
