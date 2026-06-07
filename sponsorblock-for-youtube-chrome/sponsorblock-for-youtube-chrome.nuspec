@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>sponsorblock-for-youtube-chrome</id>
-    <version>4.0.4</version>
+    <version>6.1.5</version>
     <title>SponsorBlock for YouTube for Chrome</title>
     <authors>https://sponsor.ajay.app/</authors>
     <owners>painteau</owners>
